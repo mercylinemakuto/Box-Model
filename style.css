@@ -1,0 +1,10 @@
+
+.inner-container{
+padding: 20px;
+margin: 5%;
+border: solid 2px plum;
+
+}
+.container{
+    border: dotted 2px blueviolet;
+}
